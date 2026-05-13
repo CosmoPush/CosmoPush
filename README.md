@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/JavaScript-3690A0?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
 #### 🎨 Frontend
@@ -42,14 +40,6 @@
   <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ChatGPT-34d058?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Vector%20Search-00b894?style=for-the-badge"/>
-</p>
-
-#### 📱 Mobile
-
-<p>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 #### 🔐 Auth & APIs
